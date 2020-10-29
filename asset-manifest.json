@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/portfolio-sumittomar023/static/css/main.5db1380d.chunk.css",
+    "main.js": "/portfolio-sumittomar023/static/js/main.716ec1a6.chunk.js",
+    "main.js.map": "/portfolio-sumittomar023/static/js/main.716ec1a6.chunk.js.map",
+    "runtime-main.js": "/portfolio-sumittomar023/static/js/runtime-main.4013fbc1.js",
+    "runtime-main.js.map": "/portfolio-sumittomar023/static/js/runtime-main.4013fbc1.js.map",
+    "static/css/2.57ddf7ad.chunk.css": "/portfolio-sumittomar023/static/css/2.57ddf7ad.chunk.css",
+    "static/js/2.56b6977b.chunk.js": "/portfolio-sumittomar023/static/js/2.56b6977b.chunk.js",
+    "static/js/2.56b6977b.chunk.js.map": "/portfolio-sumittomar023/static/js/2.56b6977b.chunk.js.map",
+    "index.html": "/portfolio-sumittomar023/index.html",
+    "precache-manifest.36fd80b65a289d00feb45391b0607cce.js": "/portfolio-sumittomar023/precache-manifest.36fd80b65a289d00feb45391b0607cce.js",
+    "service-worker.js": "/portfolio-sumittomar023/service-worker.js",
+    "static/css/2.57ddf7ad.chunk.css.map": "/portfolio-sumittomar023/static/css/2.57ddf7ad.chunk.css.map",
+    "static/css/main.5db1380d.chunk.css.map": "/portfolio-sumittomar023/static/css/main.5db1380d.chunk.css.map",
+    "static/js/2.56b6977b.chunk.js.LICENSE.txt": "/portfolio-sumittomar023/static/js/2.56b6977b.chunk.js.LICENSE.txt",
+    "static/media/crio-logo-white.svg": "/portfolio-sumittomar023/static/media/crio-logo-white.c9536e04.svg",
+    "static/media/crio-logo.svg": "/portfolio-sumittomar023/static/media/crio-logo.63be71d0.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4013fbc1.js",
+    "static/css/2.57ddf7ad.chunk.css",
+    "static/js/2.56b6977b.chunk.js",
+    "static/css/main.5db1380d.chunk.css",
+    "static/js/main.716ec1a6.chunk.js"
+  ]
+}
